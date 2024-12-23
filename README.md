@@ -25,6 +25,11 @@ Welcome to my portfolio of Data Science and Machine Learning projects!🚀 This 
 
 • Key Results: Provided intelligent music suggestions using regression models in Tableau.
 
+### Bike-sharing demand
+• Description: Developed machine learning models using Linear Regression, Random Forest and Gradient Boosting to forecast bike rentals based on temporal and environmental factors.
+
+• Key Results: Achieved an RMSE of 836.4 with Random Forest.
+
 ## Healthcare Analytics
 ### Heart Failure Prediction
 • Description: Preprocessed and normalized healthcare data to predict heart failure.
