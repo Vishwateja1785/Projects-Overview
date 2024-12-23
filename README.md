@@ -29,5 +29,7 @@ Identified factors influencing disease severity, achieving a 97% accuracy with S
 
 ## Tools & Technologies Used
 Programming Languages: Python, R, SAS, SQL
+
 Libraries & Frameworks: PySpark, Scikit-learn, TensorFlow, OpenCV, Streamlit
+
 Visualization: Tableau, Seaborn, Matplotlib, Tableau
